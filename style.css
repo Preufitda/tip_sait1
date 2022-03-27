@@ -1,0 +1,34 @@
+body {
+    font-family: cursive;
+    background-color: lightgreen;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: red;
+    text-align: center;
+}
+
+nav {
+    border: 7px double black;
+    padding: 8px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+nav a {
+    font-size: 27px;
+    text-align: center;
+    color: black;
+}
+
+nav a:hover {
+    background-color: lightblue;
+}
+
+nav a:focus {
+    background-color: yellow;
+}
